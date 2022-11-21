@@ -1,9 +1,11 @@
 # sbubmi_githubtutorials
 ## Examples how to write a readme file
+
 ## Instructor
 <p float="left">
   <img src="https://user-images.githubusercontent.com/53391762/203084372-db184c45-67f5-435e-b97d-549168ff3fee.jpg" height="200" width="200" />
 </p>
+
 ## Teaching Assistants
 <p float="left">
   <img src="https://user-images.githubusercontent.com/53391762/203084470-e87fa59e-8aef-4d1b-bbb2-01821e14b306.jpeg" height="200" width="200" />
@@ -11,6 +13,7 @@
   <img src="https://user-images.githubusercontent.com/53391762/203084984-1c76d4da-d71e-4b3e-8173-010c6e0cc8f6.jpg" height="200" width="200" />
   <img src="https://user-images.githubusercontent.com/53391762/203085039-ae68bebc-d6aa-4783-9e3b-33f6bc5002b6.jpg" height="200" width="200" />
 </p>
+
 ## Institutions
 <p float="left">
   <img src="https://user-images.githubusercontent.com/53391762/185673095-b8bca9e2-e436-4bba-9bc8-0215a280b919.png" height="150" width="200" />
