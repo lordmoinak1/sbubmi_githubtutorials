@@ -34,6 +34,8 @@ def train(net, trainloader, testloader, epochs=10):
             running_loss = 0.0
            
 if __name__ == "__main__":
+  flag = 0
+  
   trainloader, testloader = cifar10_dataset()
   net = ViT(
       image_size = 256,
@@ -47,7 +49,7 @@ if __name__ == "__main__":
       emb_dropout = 0.1
   )
   
-  train(net, trainloader, testloader, epochs=10)
+  train(net, trainloader, testloader, epochs=100)
             
  
 
