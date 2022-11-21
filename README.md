@@ -1,10 +1,11 @@
 # sbubmi_githubtutorials
 ## Examples how to write a readme file
-Clone this repository:
+Have clear instruction on how to exactly run the training.
+1. Clone this repository:
 ```
 git clone https://github.com/lordmoinak1/sbubmi_githubtutorials.git
 ```
-Install dependencies by running this command
+2. Install dependencies by running this command
 ```
 pip3 install -r requirements.txt
 ```
