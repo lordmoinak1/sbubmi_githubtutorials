@@ -9,6 +9,10 @@ git clone https://github.com/lordmoinak1/sbubmi_githubtutorials.git
 ```
 pip3 install -r requirements.txt
 ```
+3. Run training
+```
+python3 train.py
+```
 
 
 ## Instructor
