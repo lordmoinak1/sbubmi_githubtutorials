@@ -6,7 +6,7 @@ from datasets import *
 from models import *
 
 
-def train(epochs):
+def train(net, trainloader, testloader, epochs=10):
   criterion = nn.CrossEntropyLoss()
   optimizer = optim.SGD(net.parameters(), lr=0.001, momentum=0.9)
   
@@ -44,6 +44,8 @@ if __name__ == "__main__":
       dropout = 0.1,
       emb_dropout = 0.1
   )
+  
+  train(net, trainloader, testloader, epochs=10)
             
  
 
