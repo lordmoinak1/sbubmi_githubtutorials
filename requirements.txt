@@ -1,3 +1,4 @@
 torch==1.12.1+cu113
 torchvision==0.13.1+cu113
 matplotlib==3.2.2
+einops
