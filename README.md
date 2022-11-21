@@ -1,5 +1,5 @@
 # sbubmi_githubtutorials
-## Examples
+## Examples how to write a readme file
 ## Instructor
 <p float="left">
   <img src="https://user-images.githubusercontent.com/53391762/203084372-db184c45-67f5-435e-b97d-549168ff3fee.jpg" height="200" width="200" />
