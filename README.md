@@ -1,5 +1,14 @@
 # sbubmi_githubtutorials
 ## Examples how to write a readme file
+Clone this repository:
+```
+git clone https://github.com/lordmoinak1/sbubmi_githubtutorials.git
+```
+Install dependencies by running this command
+```
+pip3 install -r requirements.txt
+```
+
 
 ## Instructor
 <p float="left">
