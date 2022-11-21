@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 
 from dataset import *
-from models import *
+from model import *
 
 
 def train(net, trainloader, testloader, epochs=10):
