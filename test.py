@@ -5,8 +5,8 @@ def test_function(a, b):
   return x
 
 if __name__ == "__main__":
-  a = 3
-  b = 3
+  a = 5
+  b = 4
   x = test_functional(a, b)
   
   print(x)
