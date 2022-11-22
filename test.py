@@ -6,7 +6,7 @@ def test_function(a, b):
 
 if __name__ == "__main__":
   a = 3
-  b = 3
+  b = 4
   x = test_functional(a, b)
   
   print(x)
