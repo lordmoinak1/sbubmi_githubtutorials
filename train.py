@@ -49,7 +49,7 @@ if __name__ == "__main__":
       emb_dropout = 0.1
   )
   
-  train(net, trainloader, testloader, epochs=100)
+  train(net, trainloader, testloader, epochs=50)
             
  
 
