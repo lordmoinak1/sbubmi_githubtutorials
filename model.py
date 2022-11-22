@@ -119,6 +119,8 @@ class ViT(nn.Module):
         x = self.transformer(x)
 
         x = x.mean(dim = 1) if self.pool == 'mean' else x[:, 0]
+        
+        flag = 0
 
         x = self.to_latent(x)
         return self.mlp_head(x)
